@@ -1,0 +1,2 @@
+UniqueId__c,InvoiceNumber,Amount,InvoiceDate,DueDate,Status
+1234555,INV-0001,1500.00,2025-05-01,2025-05-31,Pending
